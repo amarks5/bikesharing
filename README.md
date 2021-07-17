@@ -25,6 +25,7 @@ When looking at this heatmap you see Monday-Friday the most popular times to use
 There is a flux on weekends because people are not working. People are more likely to be out, doing activities on weekends - therefore, higher activity on weekends with broader hours.
 
 ![alt text](https://github.com/amarks5/bikesharing/blob/main/images/user_trips_by_gender_by_weekday.PNG)
+
 This clearly displays males using bike share much more than women for our subscribers or annual membership holders. When you look at just customers that don't consistently use the service it is much more level between gender use.  
 
 ## Summary:
