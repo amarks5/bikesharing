@@ -1,6 +1,7 @@
 # bikesharing
 
-## Overview: We used data visualizations to analyze the New York Citi Bike data to help explore and project the possibility of a bikesharing business in Des Moines, Iowa.
+## Overview: 
+We used data visualizations to analyze the New York Citi Bike data to help explore and project the possibility of a bikesharing business in Des Moines, Iowa.
 
 ## Results: 
 [link to dashboard](https://public.tableau.com/app/profile/alexis.marks/viz/BikeSharing_16265461128530/BikeSharingStory?publish=yes)
