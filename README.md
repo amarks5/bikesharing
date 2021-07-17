@@ -6,6 +6,7 @@ We used data visualizations to analyze the New York Citi Bike data to help explo
 ## Results: 
 [link to dashboard](https://public.tableau.com/app/profile/alexis.marks/viz/BikeSharing_16265461128530/BikeSharingStory?publish=yes)
 
+![alt text](https://github.com/amarks5/bikesharing/blob/main/images/August_Peak_Hours.PNG)
 
 ## Summary:
 The data tells us there is a high bike sharing activity in NY during the month of August. Manhattan is the most popular location for people that ride the bikes, suggesting people are choosing to ride bikes more often over public transportation (i.e. buses, trains, etc.)
